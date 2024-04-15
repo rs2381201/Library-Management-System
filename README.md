@@ -8,14 +8,10 @@ Library Management System using Java and MySQL
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/bikashtudu/DBISProject.svg">
   </a>
 </p>
- https://bikashtudu.github.io/DBISProject/
-
-# Minor Project
-Course: CS 257
+ 
 
 # Developed By
-- Bikash Kumar Tudu [tudu.bikash@gmail.com]
-- Piyush Kalkute
+Rajat Singh
 
 # Environment and Requirement
 - Programming Language: JAVA with  Swings
@@ -49,4 +45,3 @@ Course: CS 257
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
 
-**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) too.**
