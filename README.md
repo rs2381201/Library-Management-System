@@ -1,15 +1,6 @@
 # DBISProject
 Library Management System using Java and MySQL
-<p align="center">
-  <a href="https://github.com/bikashtudu/DBISProject/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/bikashtudu/DBISProject.svg">
-  </a>
-  <a href="https://github.com/bikashtudu/DBISProject/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/bikashtudu/DBISProject.svg">
-  </a>
-</p>
  
-
 # Developed By
 Rajat Singh
 
